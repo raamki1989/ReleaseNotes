@@ -3,7 +3,7 @@
 |   |   |
 | - | - |
 | Release number |1.0.0   |
-| Release date | 25-Dec-2024 |
+| Release date | 25-Nov-2024 |
 | User manual | L3_PM_UMN_040  |
 | Contact email |info@sigtuple.com|
 
