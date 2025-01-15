@@ -4,5 +4,5 @@ Please reach out to us if you need more information about this release or if you
 
 |   |   |
 | - | - |
-| Email Id | info@sigtuple.com  |
-| Address | SIGTUPLE TECHNOLOGIES PRIVATE LIMITED <br>  No L-162, 14th Cross Rd, Sector 6, HSR Layout,<br> Bengaluru (Bangalore), Karnataka 560102, India. |
+| Technical support contact |support@sigtuple.com  |
+| Address | SigTuple Technologies Private Limited <br>  No L-162, 14th Cross Rd, Sector 6, HSR Layout,<br> Bengaluru - 560102, <br> Karnataka, India. |

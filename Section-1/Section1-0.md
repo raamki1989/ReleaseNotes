@@ -1,1 +1,1 @@
-# Release notes for Release 1.0.0
+# Release notes for Release 1.0
