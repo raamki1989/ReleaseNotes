@@ -2,7 +2,7 @@
 
 |   |   |
 | - | - |
-| Release number |1.0.0   |
+| Release number |1.0 |
 | Release date | 16-Jan-2025 |
 | User manual | AS76 with PBS User Manual - version 2.0.pdf |
 | Technical support contact |support@sigtuple.com |
